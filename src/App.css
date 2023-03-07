@@ -1,0 +1,21 @@
+.feriado-container {
+  width: 100%;
+  max-width: auto;
+  padding: 5 10px;
+  margin: 30px auto;
+}
+
+.feriado-container header{
+  display: flex;
+  align-items: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: left;
+}
